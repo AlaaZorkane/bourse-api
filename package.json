@@ -1,0 +1,16 @@
+{
+  "name": "bourse-api",
+  "version": "1.0.0",
+  "description": "An api that gives you various info about the 1337 scholarship.",
+  "main": "index.js",
+  "repository": "https://github.com/AlaaZorkane/bourse-api.git",
+  "author": "Alaa Zorkane <alaazorkane@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^10.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
