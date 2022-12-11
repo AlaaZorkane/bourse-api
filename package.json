@@ -7,7 +7,7 @@
   "author": "Alaa Zorkane <alaazorkane@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "got": "^10.0.2"
   },
   "devDependencies": {
